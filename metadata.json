@@ -1,0 +1,7 @@
+{
+  "name": "AC Balonpié Bolívar Manager",
+  "description": "A comprehensive sports management application for the AC Balonpié Bolívar club, featuring squad management, player profiles, and tournament tracking with a sleek athletic aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
